@@ -1,6 +1,5 @@
 # jpa01-JakindaZhang
-
-Deployed at: https://jakindazhang.dokku-07.cs.ucsb.edu
+https://jakindazhang.dokku-07.cs.ucsb.edu
 
 
 # About this repo
