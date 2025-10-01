@@ -1,6 +1,6 @@
 # jpa01-JakindaZhang
-
-Deployed at: https://jpa01-jakindazhang.dokku-07.cs.ucsb.edu
+https://jpa01-jakindazhang.dokku-07.cs.ucsb.edu
+Deployed at: https://jakindazhang.dokku-07.cs.ucsb.edu
 
 
 
