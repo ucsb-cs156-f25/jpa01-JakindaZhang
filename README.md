@@ -1,5 +1,5 @@
 # jpa01-JakindaZhang
-https://jakindazhang.dokku-07.cs.ucsb.edu
+https://JakindaZhang.dokku-07.cs.ucsb.edu
 
 
 # About this repo
